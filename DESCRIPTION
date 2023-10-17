@@ -9,3 +9,5 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+URL: https://github.com/JeMaNd-r/firstPackage
+BugReports: https://github.com/JeMaNd-r/firstPackage/issues
